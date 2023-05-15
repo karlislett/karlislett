@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently learning all things data and this is a little insight into my world
 
 <!--
 **karlislett/karlislett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
